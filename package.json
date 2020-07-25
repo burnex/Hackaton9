@@ -1,0 +1,22 @@
+{
+  "name": "hackaton9",
+  "version": "1.0.0",
+  "description": "Proyecto Hackaton9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunocse123/Hackaton9.git"
+  },
+  "author": "Bruno Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunocse123/Hackaton9/issues"
+  },
+  "homepage": "https://github.com/brunocse123/Hackaton9#readme",
+  "dependencies": {
+    "uglify-js": "^3.10.0"
+  }
+}
