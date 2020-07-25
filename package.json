@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/brunocse123/Hackaton9#readme",
   "dependencies": {
+    "terser": "^4.8.0",
     "uglify-js": "^3.10.0"
   }
 }

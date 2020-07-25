@@ -1,10 +1,18 @@
+/**
+ * Comprimir
+ * 
+https://github.com/terser/terser
+npm install terser -g
+terser --compress --output maincom.js  -- main.js
+*/
+
 /*
 1. Implementar un algoritmo que reciba 2 argumentos y los sume, el resultado se
 deberá imprimir en pantalla
 */
 
-var valor1 = 2;
-var valor2 = 9;
+let valor1 = 2;
+let valor2 = 9;
 
 function suma(a, b) {
   return a + b;
