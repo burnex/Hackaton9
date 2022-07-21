@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/brunocse123/Hackaton9#readme",
   "dependencies": {
-    "terser": "^4.8.0"
+    "terser": "^4.8.1"
   }
 }
